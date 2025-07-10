@@ -94,4 +94,19 @@ Saya menggunakan dataset ini karena fleksibilitas dan kecocokannya untuk aplikas
 
 📽️ [Tonton Demo di YouTube](https://www.youtube.com/watch?v=ZmmIUGCnj5U)
 
+---
+
+## 👥 Anggota Kelompok
+
+Proyek ini dikerjakan oleh:
+
+- 🧑‍💻 MUHAMAD ZULFIKAR  (312310011)
+- 👩‍💻 AHMAD ZULFA AULIA RAHMAN (312310028)
+- 🧑‍💻 MUHAMMAD HAFIDZ FAUJAN (312310136)
+- 👩‍💻 IFA NURUL FAUZIAH (312310156)
+- 👩‍💻 ANDHIKA ULHAQ FATURRAHMAN (312310782)
+
+Terima kasih telah melihat proyek kami! Jangan lupa untuk ⭐ repositori ini jika bermanfaat 🙌
+
+
 
