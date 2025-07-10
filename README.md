@@ -96,7 +96,7 @@ Saya menggunakan dataset ini karena fleksibilitas dan kecocokannya untuk aplikas
 
 ---
 
-## 👥 Anggota Kelompok
+## 👥 Anggota Kelompok 3
 
 Proyek ini dikerjakan oleh:
 
