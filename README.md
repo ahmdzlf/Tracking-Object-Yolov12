@@ -1,4 +1,4 @@
-# 🧠🚀 Deteksi Objek dan Pelacakan Langsung Menggunakan YOLOv12 🎥✨
+# 🚀 Deteksi Objek dan Pelacakan Langsung Menggunakan YOLOv12 🎥
 
 Selamat datang di proyek saya mengenai **Deteksi Objek dan Pelacakan Real-Time** menggunakan **YOLOv12**!  
 YOLO (You Only Look Once) adalah salah satu model deteksi objek tercepat dan terakurat, dan pada proyek ini saya telah menggabungkannya dengan pelacakan video secara langsung menggunakan **OpenCV** dan **CSRT Tracker**.
